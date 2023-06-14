@@ -1,0 +1,56 @@
+
+.group {
+    background-color: #e6d0f0; 
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto; 
+    border-radius: 10px; 
+    font-family: Arial, sans-serif; 
+  }
+  
+
+  .group h2 {
+    color: white;
+    font-style: italic;
+  }
+  
+  
+  .group label {
+    color: white;
+    font-weight: bold;
+  }
+  
+  
+  .group input[type="text"],
+  .group input[type="email"] {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 5px; /
+  }
+  
+  
+  .group input[type="submit"] {
+    background-color: white;
+    color: #c883e8; 
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px; 
+  }
+  
+ 
+  .group span em {
+    font-size: 12px;
+    font-style: normal;
+    color: white;
+  }
+  
+ 
+  .group span em {
+    font-size: 12px;
+    font-style: normal;
+    color: white;
+  }
+  
